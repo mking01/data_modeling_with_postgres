@@ -38,3 +38,6 @@ songplays - log information associated with song plays.  Determined through page
 2. Run test.ipynb to confirm all tables were created as expected
 3. Run etl.py to insert records into database tables
 4. Run test.ipynb to confirm all records were inserted as expected
+
+## Acknowledgements
+This project was completed as part of Udacity's Data Engineering Nanodegree program.
